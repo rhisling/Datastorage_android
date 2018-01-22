@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="preferences_button">Preferences</string>
+    <string name="sqlite_button">SQLite</string>
+    <string name="close_button">Close</string>
+    <string name="description_label">Description</string>
+    <string name="book_name">Android Book Name</string>
+    <string name="book_author">Android Book Author</string>
+    <string name="booknamefield">Max. 70 Characters</string>
+    <string name="saveButton">SAVE</string>
+    <string name="blog_message">Blog Message</string>
+</resources>
